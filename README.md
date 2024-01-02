@@ -1,7 +1,8 @@
 # auth-mern
 Project to lern about technology mern 
 
-What is MERN?
+What is MERN? 
+<br>
 Mern stack is a collection of technologies that enables faster application development. It is used by developer worldwide. The main purpose of using MERN stack is to develop apps using JavaScript only. This is because the four technologies that make up Technology stack are all JS-Based. Thus. if one knows JavaScript (and JSON), the backend and database can be operated easily
 
 ## How to start
