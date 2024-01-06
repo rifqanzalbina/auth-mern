@@ -1,5 +1,5 @@
 # auth-mern
-Project to lern about technology mern 
+Project to learn about technology mern 
 
 What is MERN? 
 <br>
