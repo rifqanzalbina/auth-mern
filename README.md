@@ -1,5 +1,5 @@
 # auth-mern
-Project to learn about technology mern 
+Project to learn about technology mern (MERN - MongoDB, ExpressJS, ReactJS, NodeJS)
 
 What is MERN? 
 <br>
