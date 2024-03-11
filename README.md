@@ -13,9 +13,9 @@ Mern stack is a collection of technologies that enables faster application devel
 
 ## Technology We Use
 - MongoDB
-- Express Js
-- React Js
-- Node Js
+- Express js
+- React js
+- Node js
 
 ## Made By
 rifqanzalbina
