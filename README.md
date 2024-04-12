@@ -9,7 +9,7 @@ Mern stack is a collection of technologies that enables faster application devel
 - First clone this repository to your code editor app
 - Second run in server folder and run in the terminal `npm start`
 - Third run in client folder  and run in the terminal `npm start`
-- That's all
+- That's all 
 
 ## Technology We Use
 - MongoDB
@@ -18,4 +18,4 @@ Mern stack is a collection of technologies that enables faster application devel
 - Node js
 
 ## Made By
-rifqanzalbina
+rifqanzalbina 'Coding is Fun'
